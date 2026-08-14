@@ -177,10 +177,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T03:34:34Z",
+            "last_commit": "2026-08-14T03:39:06Z",
             "owner": "confluentinc",
             "repo": "schema-registry",
-            "stars": 2459
+            "stars": 2460
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-07-31T06:45:24Z",
             "owner": "apache",
             "repo": "gobblin",
-            "stars": 2269
+            "stars": 2270
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2025-01-22T22:13:07Z",
             "owner": "colinmarc",
             "repo": "hdfs",
-            "stars": 1404
+            "stars": 1403
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2023-04-10T11:31:57Z",
             "owner": "twitter",
             "repo": "elephant-bird",
-            "stars": 1134
+            "stars": 1133
           }
         },
         {
@@ -446,7 +446,7 @@
             "last_commit": "2021-08-16T11:16:27Z",
             "owner": "OryxProject",
             "repo": "oryx",
-            "stars": 1783
+            "stars": 1782
           }
         },
         {
@@ -485,7 +485,7 @@
                 "last_commit": "2023-04-10T11:31:57Z",
                 "owner": "twitter",
                 "repo": "elephant-bird",
-                "stars": 1134
+                "stars": 1133
               }
             },
             {
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:28.186Z",
+    "last_updated": "2026-08-14T03:41:14.605Z",
     "original_repository": "youngwookim/awesome-hadoop",
     "original_repository_sha": "7afed99d1649236e6b6640c9f1b7c2da06dbd524",
     "enhanced_repository": "enhansome/enhansome-hadoop",

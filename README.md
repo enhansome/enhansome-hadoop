@@ -1,6 +1,6 @@
 # Awesome Hadoop with stars
 
-A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,648 | 🐛 81 | 📅 2026-07-13, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 313,644 | 🐛 25 | 🌐 Python | 📅 2026-08-05 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,347 | 🐛 270 | 📅 2024-03-26
+A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,649 | 🐛 82 | 📅 2026-07-13, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 313,835 | 🐛 26 | 🌐 Python | 📅 2026-08-05 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,347 | 🐛 270 | 📅 2024-03-26
 
 * [Awesome Hadoop](#awesome-hadoop)
   * [Hadoop](#hadoop)
@@ -82,7 +82,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Data Management
 
-* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2,459 | 🐛 394 | 🌐 Java | 📅 2026-08-13 - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
+* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2,460 | 🐛 397 | 🌐 Java | 📅 2026-08-14 - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
 * [Hortonworks Schema Registry](https://github.com/hortonworks/registry) ⚠️ Archived - Schema Registry is a framework to build metadata repositories.
 * [Apache Calcite](http://calcite.apache.org/) - A Dynamic Data Management Framework
 * [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
@@ -94,12 +94,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 46,457 | 🐛 1,889 | 🌐 Python | 📅 2026-08-13 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 46,474 | 🐛 1,863 | 🌐 Python | 📅 2026-08-14 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
 
-* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) ⭐ 2,269 | 🐛 142 | 🌐 Java | 📅 2026-07-31 - Universal data ingestion framework for Hadoop
+* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) ⭐ 2,270 | 🐛 142 | 🌐 Java | 📅 2026-07-31 - Universal data ingestion framework for Hadoop
 * [Suro](https://github.com/Netflix/suro) ⚠️ Archived - Netflix's distributed Data Pipeline
 * [Apache Flume](http://flume.apache.org) - Apache Flume
 * [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
@@ -118,8 +118,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Libraries and Tools
 
-* [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs) ⭐ 1,404 | 🐛 54 | 🌐 Go | 📅 2025-01-22
-* [Elephant Bird](https://github.com/twitter/elephant-bird) ⭐ 1,134 | 🐛 87 | 🌐 Java | 📅 2023-04-10 - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
+* [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs) ⭐ 1,403 | 🐛 54 | 🌐 Go | 📅 2025-01-22
+* [Elephant Bird](https://github.com/twitter/elephant-bird) ⭐ 1,133 | 🐛 87 | 🌐 Java | 📅 2023-04-10 - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 * [Schema Registry UI](https://github.com/Landoop/schema-registry-ui) ⭐ 425 | 🐛 40 | 🌐 JavaScript | 📅 2024-02-13 - Web tool for the Confluent Schema Registry in order to create / view / search / evolve / view history & configure Avro schemas of your Kafka cluster.
 * [Kite Software Development Kit](http://kitesdk.org/) - A set of libraries, tools, examples, and documentation
 * [gohadoop](https://github.com/hortonworks/gohadoop) - Native go clients for Apache Hadoop YARN.
@@ -202,7 +202,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * Hive Plugins
 * UDF
-  * <https://github.com/twitter/elephant-bird> ⭐ 1,134 | 🐛 87 | 🌐 Java | 📅 2023-04-10 - Twitter
+  * <https://github.com/twitter/elephant-bird> ⭐ 1,133 | 🐛 87 | 🌐 Java | 📅 2023-04-10 - Twitter
   * <https://github.com/livingsocial/HiveSwarm> ⭐ 102 | 🐛 3 | 🌐 Java | 📅 2016-05-02
   * <https://github.com/ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics> ⭐ 16 | 🐛 2 | 🌐 Java | 📅 2014-08-19
   * <https://github.com/edwardcapriolo/hive_cassandra_udfs> ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2012-03-30
@@ -275,8 +275,8 @@ Various resources, such as books, websites and articles.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,603 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,052 | 🐛 100 | 📅 2026-06-30 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,607 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,450 | 🐛 99 | 📅 2026-06-30 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
