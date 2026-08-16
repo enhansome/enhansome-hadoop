@@ -1,6 +1,6 @@
 # Awesome Hadoop with stars
 
-A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,650 | 🐛 83 | 📅 2026-07-13, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 313,994 | 🐛 27 | 🌐 Python | 📅 2026-08-05 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,348 | 🐛 270 | 📅 2024-03-26
+A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,652 | 🐛 83 | 📅 2026-07-13, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 314,176 | 🐛 27 | 🌐 Python | 📅 2026-08-05 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,349 | 🐛 269 | 📅 2024-03-26
 
 * [Awesome Hadoop](#awesome-hadoop)
   * [Hadoop](#hadoop)
@@ -94,7 +94,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 46,493 | 🐛 1,850 | 🌐 Python | 📅 2026-08-15 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 46,503 | 🐛 1,863 | 🌐 Python | 📅 2026-08-15 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
@@ -275,8 +275,8 @@ Various resources, such as books, websites and articles.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,818 | 🐛 100 | 📅 2026-06-30 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,176 | 🐛 100 | 📅 2026-06-30 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
