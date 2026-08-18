@@ -42,7 +42,7 @@
             "last_commit": "2026-07-13T23:55:51Z",
             "owner": "Netflix",
             "repo": "genie",
-            "stars": 1766
+            "stars": 1767
           }
         },
         {
@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T14:22:24Z",
+            "last_commit": "2026-08-18T01:17:50Z",
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2461
@@ -412,7 +412,7 @@
             "last_commit": "2026-08-12T15:30:29Z",
             "owner": "brianfrankcooper",
             "repo": "YCSB",
-            "stars": 5232
+            "stars": 5231
           }
         },
         {
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:45:07.013Z",
+    "last_updated": "2026-08-18T02:39:51.598Z",
     "original_repository": "youngwookim/awesome-hadoop",
     "original_repository_sha": "7afed99d1649236e6b6640c9f1b7c2da06dbd524",
     "enhanced_repository": "enhansome/enhansome-hadoop",
