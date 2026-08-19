@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 984742,
             "language": "Python",
             "last_commit": "2026-04-02T17:05:58Z",
             "owner": "Yelp",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8710734,
             "language": "Java",
             "last_commit": "2026-08-11T22:49:49Z",
             "owner": "elastic",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10828921,
             "language": "Java",
             "last_commit": "2026-07-13T23:55:51Z",
             "owner": "Netflix",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 340897,
             "language": "C",
             "last_commit": "2016-01-08T21:07:56Z",
             "owner": "bwhite",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5331282,
             "language": "JavaScript",
             "last_commit": "2020-10-13T07:09:39Z",
             "owner": "twitter-archive",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26825664,
             "language": "Go",
             "last_commit": "2014-11-19T23:29:11Z",
             "owner": "jondot",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7809570,
             "language": "Java",
             "last_commit": "2013-10-29T23:15:23Z",
             "owner": "LinkedInAttic",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4387128,
             "language": "Python",
             "last_commit": "2026-03-16T15:58:18Z",
             "owner": "python-happybase",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11974846,
             "language": "Java",
             "last_commit": "2017-05-18T15:25:10Z",
             "owner": "Huawei-Hadoop",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6258675,
             "language": "Ruby",
             "last_commit": "2017-12-22T00:22:51Z",
             "owner": "sentric",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12022723,
             "language": "Java",
             "last_commit": "2017-02-28T07:05:09Z",
             "owner": "VCNC",
@@ -167,7 +178,7 @@
       "title": "NoSQL"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -176,8 +187,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27790789,
             "language": "Java",
-            "last_commit": "2026-08-19T02:21:28Z",
+            "last_commit": "2026-08-19T12:06:14Z",
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2461
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 71982467,
             "language": "Java",
             "last_commit": "2024-06-20T08:32:26Z",
             "owner": "hortonworks",
@@ -201,7 +214,7 @@
       "title": "Data Management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27392543,
             "language": "Java",
             "last_commit": "2026-07-31T06:45:24Z",
             "owner": "apache",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8914350,
             "language": "Java",
             "last_commit": "2023-04-10T10:22:36Z",
             "owner": "Netflix",
@@ -235,7 +250,7 @@
       "title": "Data Ingestion and Integration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15149719,
             "language": "Clojure",
             "last_commit": "2023-04-10T10:32:34Z",
             "owner": "Netflix",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10202995,
             "language": "JavaScript",
             "last_commit": "2023-03-24T09:36:23Z",
             "owner": "Netflix",
@@ -272,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3645592,
             "language": "Python",
             "last_commit": "2018-05-14T15:36:20Z",
             "owner": "packetloop",
@@ -286,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1157757,
             "language": "Java",
             "last_commit": "2014-03-31T14:29:53Z",
             "owner": "mozilla-metrics",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1658631,
             "language": "Java",
             "last_commit": "2013-12-17T18:57:09Z",
             "owner": "alienrobotwizard",
@@ -311,7 +331,7 @@
       "title": "DSL"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -320,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24957315,
             "language": "Go",
             "last_commit": "2025-01-22T22:13:07Z",
             "owner": "colinmarc",
@@ -334,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578435,
             "language": "Java",
             "last_commit": "2023-04-10T11:31:57Z",
             "owner": "twitter",
@@ -348,24 +370,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60967444,
             "language": "JavaScript",
             "last_commit": "2024-02-13T15:12:45Z",
             "owner": "lensesio",
             "repo": "schema-registry-ui",
             "stars": 425
           }
-        },
-        {
-          "node_type": "item",
-          "title": "gohadoop",
-          "description": "Native go clients for Apache Hadoop YARN.",
-          "children": []
         }
       ],
       "title": "Libraries and Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -374,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22392595,
             "language": "JavaScript",
             "last_commit": "2023-05-23T06:54:02Z",
             "owner": "Netflix",
@@ -388,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20289822,
             "language": "Java",
             "last_commit": "2015-04-20T15:08:22Z",
             "owner": "Impetus",
@@ -399,7 +418,7 @@
       "title": "Packaging, Provisioning and Monitoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -408,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618492,
             "language": "Java",
             "last_commit": "2026-08-12T15:30:29Z",
             "owner": "brianfrankcooper",
@@ -422,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4634707,
             "language": "Java",
             "last_commit": "2025-12-15T16:28:33Z",
             "owner": "Intel-bigdata",
@@ -433,7 +454,7 @@
       "title": "Benchmark"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -442,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22269384,
             "language": "Java",
             "last_commit": "2021-08-16T11:16:27Z",
             "owner": "OryxProject",
@@ -456,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2020732,
             "language": null,
             "last_commit": "2015-11-24T14:49:09Z",
             "owner": "RevolutionAnalytics",
@@ -467,7 +490,7 @@
       "title": "Machine learning and Big Data analytics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -481,6 +504,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 578435,
                 "language": "Java",
                 "last_commit": "2023-04-10T11:31:57Z",
                 "owner": "twitter",
@@ -495,6 +519,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1573159,
                 "language": "Java",
                 "last_commit": "2016-05-02T15:58:08Z",
                 "owner": "livingsocial",
@@ -509,6 +534,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1575099,
                 "language": "Java",
                 "last_commit": "2014-08-19T16:33:37Z",
                 "owner": "ThinkBigAnalytics",
@@ -523,6 +549,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3069340,
                 "language": "Java",
                 "last_commit": "2012-03-30T13:52:22Z",
                 "owner": "edwardcapriolo",
@@ -537,18 +564,13 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 3256767,
                 "language": "Java",
                 "last_commit": "2013-02-12T08:53:45Z",
                 "owner": "lovelysystems",
                 "repo": "ls-hive",
                 "stars": 5
               }
-            },
-            {
-              "node_type": "item",
-              "title": "https://github.com/klout/brickhouse",
-              "description": null,
-              "children": []
             }
           ]
         },
@@ -564,6 +586,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2793829,
                 "language": "Java",
                 "last_commit": "2023-04-14T18:52:35Z",
                 "owner": "yc-huang",
@@ -578,6 +601,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8640733,
                 "language": "Java",
                 "last_commit": "2014-03-17T02:42:16Z",
                 "owner": "chimpler",
@@ -592,6 +616,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9402112,
                 "language": "Java",
                 "last_commit": "2016-04-20T18:16:23Z",
                 "owner": "dvasilen",
@@ -606,6 +631,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2231731,
                 "language": "Java",
                 "last_commit": "2011-08-19T18:25:00Z",
                 "owner": "balshor",
@@ -620,6 +646,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8519322,
                 "language": "Java",
                 "last_commit": "2023-04-15T11:07:56Z",
                 "owner": "bfemiano",
@@ -641,6 +668,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16431132,
                 "language": "Python",
                 "last_commit": "2026-04-13T16:48:16Z",
                 "owner": "dropbox",
@@ -655,6 +683,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14613496,
                 "language": "Java",
                 "last_commit": "2025-01-06T09:02:52Z",
                 "owner": "HiveRunner",
@@ -669,6 +698,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1580190,
                 "language": "JavaScript",
                 "last_commit": "2016-12-28T08:57:10Z",
                 "owner": "tagomoris",
@@ -683,6 +713,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 960326,
                 "language": "Ruby",
                 "last_commit": "2021-04-29T19:58:09Z",
                 "owner": "forward3d",
@@ -697,6 +728,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15010451,
                 "language": "Java",
                 "last_commit": "2017-02-11T01:18:12Z",
                 "owner": "kawaa",
@@ -711,6 +743,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2399808,
                 "language": "Java",
                 "last_commit": "2022-06-29T19:16:33Z",
                 "owner": "edwardcapriolo",
@@ -725,6 +758,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2035116,
                 "language": "JavaScript",
                 "last_commit": "2018-05-18T08:04:36Z",
                 "owner": "forward",
@@ -739,6 +773,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1489915,
                 "language": "JavaScript",
                 "last_commit": "2014-01-28T09:41:48Z",
                 "owner": "recruitcojp",
@@ -753,6 +788,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2070720,
                 "language": "C++",
                 "last_commit": "2011-07-22T09:12:43Z",
                 "owner": "recruitcojp",
@@ -767,6 +803,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1424995,
                 "language": null,
                 "last_commit": "2011-06-09T23:00:13Z",
                 "owner": "synctree",
@@ -781,6 +818,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1712898,
                 "language": "Ruby",
                 "last_commit": "2024-09-04T05:21:53Z",
                 "owner": "hrp",
@@ -795,6 +833,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76075397,
                 "language": "Perl",
                 "last_commit": "2023-08-06T20:39:40Z",
                 "owner": "dmorel",
@@ -816,6 +855,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 5991485,
                 "language": "Java",
                 "last_commit": "2023-03-03T10:42:53Z",
                 "owner": "leonlee",
@@ -830,6 +870,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4655641,
                 "language": "Java",
                 "last_commit": "2023-12-16T16:44:13Z",
                 "owner": "jcustenborder",
@@ -844,6 +885,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 6976695,
                 "language": "C#",
                 "last_commit": "2014-07-18T02:29:13Z",
                 "owner": "marksl",
@@ -858,6 +900,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 17885720,
                 "language": "Java",
                 "last_commit": "2014-04-15T23:02:24Z",
                 "owner": "whitepages",
@@ -872,8 +915,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:42:39.877Z",
+    "last_updated": "2026-08-19T12:32:38.550Z",
     "original_repository": "youngwookim/awesome-hadoop",
+    "original_repository_id": 21599652,
     "original_repository_sha": "7afed99d1649236e6b6640c9f1b7c2da06dbd524",
     "enhanced_repository": "enhansome/enhansome-hadoop",
     "enhanced_repository_description": null,

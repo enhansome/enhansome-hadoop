@@ -1,6 +1,6 @@
 # Awesome Hadoop with stars
 
-A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,656 | 🐛 83 | 📅 2026-07-13, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 314,724 | 🐛 18 | 🌐 Python | 📅 2026-08-16 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,348 | 🐛 270 | 📅 2024-03-26
+A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,657 | 🐛 83 | 📅 2026-07-13, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 314,853 | 🐛 18 | 🌐 Python | 📅 2026-08-16 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,349 | 🐛 270 | 📅 2024-03-26
 
 * [Awesome Hadoop](#awesome-hadoop)
   * [Hadoop](#hadoop)
@@ -94,7 +94,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 46,525 | 🐛 1,886 | 🌐 Python | 📅 2026-08-18 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 46,535 | 🐛 1,894 | 🌐 Python | 📅 2026-08-19 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
@@ -156,7 +156,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Packaging, Provisioning and Monitoring
 
 * [inviso](https://github.com/Netflix/inviso) ⭐ 205 | 🐛 14 | 🌐 JavaScript | 📅 2023-05-23 - Inviso is a lightweight tool that provides the ability to search for Hadoop jobs, visualize the performance, and view cluster utilization.
-* [ankush](https://github.com/impetus-opensource/ankush) ⭐ 21 | 🐛 3 | 🌐 Java | 📅 2015-04-20 - A big data cluster management tool that creates and manages clusters of different technologies.
+* [ankush](https://github.com/impetus-opensource/ankush) ⭐ 21 | 🐛 4 | 🌐 Java | 📅 2015-04-20 - A big data cluster management tool that creates and manages clusters of different technologies.
 * [Apache Bigtop](http://bigtop.apache.org/) - Apache Bigtop: Packaging and tests of the Apache Hadoop ecosystem
 * [Apache Ambari](http://ambari.apache.org/) - Apache Ambari
 * [Ganglia Monitoring System](http://ganglia.sourceforge.net/)
@@ -182,7 +182,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Benchmark
 
-* [YCSB](https://github.com/brianfrankcooper/YCSB) ⭐ 5,231 | 🐛 383 | 🌐 Java | 📅 2026-08-12 - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
+* [YCSB](https://github.com/brianfrankcooper/YCSB) ⭐ 5,231 | 🐛 384 | 🌐 Java | 📅 2026-08-12 - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
 * [HiBench](https://github.com/intel-hadoop/HiBench) ⚠️ Archived
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
 
@@ -275,7 +275,7 @@ Various resources, such as books, websites and articles.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,459 | 🐛 102 | 📅 2026-08-18 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,662 | 🐛 102 | 📅 2026-08-18 list.
 
 ***
 
