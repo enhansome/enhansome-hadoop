@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-18T01:17:50Z",
+            "last_commit": "2026-08-19T02:21:28Z",
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2461
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:39:51.598Z",
+    "last_updated": "2026-08-19T02:42:39.877Z",
     "original_repository": "youngwookim/awesome-hadoop",
     "original_repository_sha": "7afed99d1649236e6b6640c9f1b7c2da06dbd524",
     "enhanced_repository": "enhansome/enhansome-hadoop",
