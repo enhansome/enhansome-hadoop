@@ -189,10 +189,10 @@
             "archived": false,
             "id": 27790789,
             "language": "Java",
-            "last_commit": "2026-08-24T00:37:25Z",
+            "last_commit": "2026-08-24T10:15:25Z",
             "owner": "confluentinc",
             "repo": "schema-registry",
-            "stars": 2461
+            "stars": 2462
           }
         },
         {
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:48:42.066Z",
+    "last_updated": "2026-08-24T14:19:57.247Z",
     "original_repository": "youngwookim/awesome-hadoop",
     "original_repository_id": 21599652,
     "original_repository_sha": "7afed99d1649236e6b6640c9f1b7c2da06dbd524",
