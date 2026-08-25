@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T11:41:45Z",
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
-            "stars": 1971
+            "stars": 1972
           }
         },
         {
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 27790789,
             "language": "Java",
-            "last_commit": "2026-08-24T10:15:25Z",
+            "last_commit": "2026-08-25T01:52:42Z",
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2462
@@ -915,7 +915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:57.247Z",
+    "last_updated": "2026-08-25T02:42:55.492Z",
     "original_repository": "youngwookim/awesome-hadoop",
     "original_repository_id": 21599652,
     "original_repository_sha": "7afed99d1649236e6b6640c9f1b7c2da06dbd524",
