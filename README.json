@@ -16,7 +16,8 @@
             "owner": "Yelp",
             "repo": "mrjob",
             "stars": 2613
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 8710734,
             "language": "Java",
-            "last_commit": "2026-08-27T12:05:35Z",
+            "last_commit": "2026-08-27T19:29:57Z",
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
             "stars": 1972
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Netflix",
             "repo": "genie",
             "stars": 1767
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "bwhite",
             "repo": "hadoopy",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "twitter-archive",
             "repo": "hdfs-du",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "jondot",
             "repo": "crunch",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "LinkedInAttic",
             "repo": "white-elephant",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "Hadoop"
@@ -127,7 +134,8 @@
             "owner": "python-happybase",
             "repo": "happybase",
             "stars": 608
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Huawei-Hadoop",
             "repo": "hindex",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "sentric",
             "repo": "hannibal",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "VCNC",
             "repo": "haeinsa",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "NoSQL"
@@ -189,11 +200,12 @@
             "archived": false,
             "id": 27790789,
             "language": "Java",
-            "last_commit": "2026-08-27T10:23:45Z",
+            "last_commit": "2026-08-28T09:36:14Z",
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2463
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "hortonworks",
             "repo": "registry",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "Data Management"
@@ -229,7 +242,8 @@
             "owner": "apache",
             "repo": "gobblin",
             "stars": 2270
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "Netflix",
             "repo": "suro",
             "stars": 796
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "Data Ingestion and Integration"
@@ -265,7 +280,8 @@
             "owner": "Netflix",
             "repo": "PigPen",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -279,8 +295,9 @@
             "last_commit": "2023-03-24T09:36:23Z",
             "owner": "Netflix",
             "repo": "Lipstick",
-            "stars": 466
-          }
+            "stars": 465
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "packetloop",
             "repo": "packetpig",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "mozilla-metrics",
             "repo": "akela",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "alienrobotwizard",
             "repo": "varaha",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "DSL"
@@ -346,7 +366,8 @@
             "owner": "colinmarc",
             "repo": "hdfs",
             "stars": 1403
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -361,7 +382,8 @@
             "owner": "twitter",
             "repo": "elephant-bird",
             "stars": 1133
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "lensesio",
             "repo": "schema-registry-ui",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "Libraries and Tools"
@@ -397,7 +420,8 @@
             "owner": "Netflix",
             "repo": "inviso",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -412,7 +436,8 @@
             "owner": "Impetus",
             "repo": "ankush",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "Packaging, Provisioning and Monitoring"
@@ -433,7 +458,8 @@
             "owner": "brianfrankcooper",
             "repo": "YCSB",
             "stars": 5229
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -448,7 +474,8 @@
             "owner": "Intel-bigdata",
             "repo": "HiBench",
             "stars": 1484
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "Benchmark"
@@ -469,7 +496,8 @@
             "owner": "OryxProject",
             "repo": "oryx",
             "stars": 1782
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         },
         {
           "node_type": "item",
@@ -484,7 +512,8 @@
             "owner": "RevolutionAnalytics",
             "repo": "RHadoop",
             "stars": 759
-          }
+          },
+          "first_seen": "2026-08-28T13:19:45.115Z"
         }
       ],
       "title": "Machine learning and Big Data analytics"
@@ -510,7 +539,8 @@
                 "owner": "twitter",
                 "repo": "elephant-bird",
                 "stars": 1133
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -525,7 +555,8 @@
                 "owner": "livingsocial",
                 "repo": "HiveSwarm",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -540,7 +571,8 @@
                 "owner": "ThinkBigAnalytics",
                 "repo": "Hive-Extensions-from-Think-Big-Analytics",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -555,7 +587,8 @@
                 "owner": "edwardcapriolo",
                 "repo": "hive_cassandra_udfs",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -570,7 +603,8 @@
                 "owner": "lovelysystems",
                 "repo": "ls-hive",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             }
           ]
         },
@@ -592,7 +626,8 @@
                 "owner": "yc-huang",
                 "repo": "Hive-mongo",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -607,7 +642,8 @@
                 "owner": "chimpler",
                 "repo": "hive-solr",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -622,7 +658,8 @@
                 "owner": "dvasilen",
                 "repo": "Hive-Cassandra",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -637,7 +674,8 @@
                 "owner": "balshor",
                 "repo": "gdata-storagehandler",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -652,7 +690,8 @@
                 "owner": "bfemiano",
                 "repo": "accumulo-hive-storage-manager",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             }
           ]
         },
@@ -674,7 +713,8 @@
                 "owner": "dropbox",
                 "repo": "PyHive",
                 "stars": 1693
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -689,7 +729,8 @@
                 "owner": "HiveRunner",
                 "repo": "HiveRunner",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -704,7 +745,8 @@
                 "owner": "tagomoris",
                 "repo": "shib",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -719,7 +761,8 @@
                 "owner": "forward3d",
                 "repo": "rbhive",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -734,7 +777,8 @@
                 "owner": "kawaa",
                 "repo": "Beetest",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -749,7 +793,8 @@
                 "owner": "edwardcapriolo",
                 "repo": "hive_test",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -764,7 +809,8 @@
                 "owner": "forward",
                 "repo": "node-hive",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -779,7 +825,8 @@
                 "owner": "recruitcojp",
                 "repo": "WebHive",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -794,7 +841,8 @@
                 "owner": "recruitcojp",
                 "repo": "OdbcHive",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -809,7 +857,8 @@
                 "owner": "synctree",
                 "repo": "activerecord-hive-adapter",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -824,7 +873,8 @@
                 "owner": "hrp",
                 "repo": "sequel-hive-adapter",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -839,7 +889,8 @@
                 "owner": "dmorel",
                 "repo": "Thrift-API-HiveClient2",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             }
           ]
         },
@@ -861,7 +912,8 @@
                 "owner": "leonlee",
                 "repo": "flume-ng-mongodb-sink",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -876,7 +928,8 @@
                 "owner": "jcustenborder",
                 "repo": "flume-ng-rabbitmq",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -891,7 +944,8 @@
                 "owner": "marksl",
                 "repo": "DotNetFlumeNG.Clients",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             },
             {
               "node_type": "item",
@@ -906,7 +960,8 @@
                 "owner": "whitepages",
                 "repo": "flume-udp-source",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:19:45.115Z"
             }
           ]
         }
@@ -915,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:20.424Z",
+    "last_updated": "2026-08-28T13:19:45.115Z",
     "original_repository_info": {
       "archived": false,
       "id": 21599652,
