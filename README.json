@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run MapReduce jobs on Hadoop or Amazon Web Services",
+            "homepage": "http://packages.python.org/mrjob/",
             "id": 984742,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-02T17:05:58Z",
+            "open_issues": 217,
             "owner": "Yelp",
             "repo": "mrjob",
-            "stars": 2613
+            "stars": 2613,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :elephant: Elasticsearch real-time search and analytics natively integrated with Hadoop",
+            "homepage": "https://www.elastic.co/products/hadoop",
             "id": 8710734,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:29:57Z",
+            "open_issues": 138,
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
-            "stars": 1972
+            "stars": 1972,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -42,12 +52,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Big Data Orchestration Service",
+            "homepage": "https://netflix.github.io/genie",
             "id": 10828921,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-13T23:55:51Z",
+            "open_issues": 20,
             "owner": "Netflix",
             "repo": "genie",
-            "stars": 1767
+            "stars": 1767,
+            "topics": [
+              "big-data",
+              "bigdata",
+              "cloud",
+              "configuration",
+              "configuration-management",
+              "distributed-systems",
+              "java",
+              "microservice",
+              "microservices",
+              "netflix-oss",
+              "netflixoss",
+              "orchestration",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -58,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python MapReduce library written in Cython. Visit us in #hadoopy on freenode.  See the link below for documentation and tutorials.",
+            "homepage": null,
             "id": 340897,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2016-01-08T21:07:56Z",
+            "open_issues": 56,
             "owner": "bwhite",
             "repo": "hadoopy",
-            "stars": 243
+            "stars": 243,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -74,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Visualize your HDFS cluster usage",
+            "homepage": "https://twitter.com/hdfsdu",
             "id": 5331282,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-13T07:09:39Z",
+            "open_issues": 15,
             "owner": "twitter-archive",
             "repo": "hdfs-du",
-            "stars": 228
+            "stars": 228,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -90,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop.",
+            "homepage": null,
             "id": 26825664,
             "language": "Go",
+            "license": null,
             "last_commit": "2014-11-19T23:29:11Z",
+            "open_issues": 1,
             "owner": "jondot",
             "repo": "crunch",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -106,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hadoop log aggregator and dashboard",
+            "homepage": null,
             "id": 7809570,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2013-10-29T23:15:23Z",
+            "open_issues": 14,
             "owner": "LinkedInAttic",
             "repo": "white-elephant",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -128,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[UNMAINTAINED] A developer-friendly Python library to interact with Apache HBase",
+            "homepage": "https://happybase.readthedocs.io/",
             "id": 4387128,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-16T15:58:18Z",
+            "open_issues": 34,
             "owner": "python-happybase",
             "repo": "happybase",
-            "stars": 608
+            "stars": 608,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -144,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secondary Index for HBase",
+            "homepage": null,
             "id": 11974846,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-18T15:25:10Z",
+            "open_issues": 28,
             "owner": "Huawei-Hadoop",
             "repo": "hindex",
-            "stars": 589
+            "stars": 589,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -160,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.",
+            "homepage": "http://www.ymc.ch/en/tag/hannibal-en",
             "id": 6258675,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2017-12-22T00:22:51Z",
+            "open_issues": 9,
             "owner": "sentric",
             "repo": "hannibal",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -176,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase",
+            "homepage": null,
             "id": 12022723,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-02-28T07:05:09Z",
+            "open_issues": 19,
             "owner": "VCNC",
             "repo": "haeinsa",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -198,12 +267,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Confluent Schema Registry for Kafka",
+            "homepage": "https://docs.confluent.io/current/schema-registry/docs/index.html",
             "id": 27790789,
             "language": "Java",
-            "last_commit": "2026-08-28T09:36:14Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:11:06Z",
+            "open_issues": 390,
             "owner": "confluentinc",
             "repo": "schema-registry",
-            "stars": 2463
+            "stars": 2463,
+            "topics": [
+              "avro",
+              "avro-schema",
+              "confluent",
+              "json",
+              "json-schema",
+              "kafka",
+              "protobuf",
+              "protobuf-schema",
+              "rest-api",
+              "schema",
+              "schema-registry",
+              "schemas"
+            ]
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -214,12 +301,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Schema Registry",
+            "homepage": null,
             "id": 71982467,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-20T08:32:26Z",
+            "open_issues": 106,
             "owner": "hortonworks",
             "repo": "registry",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "flink",
+              "kafka",
+              "kinesis",
+              "metadata",
+              "schema-registry",
+              "schemas",
+              "spark-streaming",
+              "storm"
+            ]
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -236,12 +337,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.",
+            "homepage": "https://gobblin.apache.org/",
             "id": 27392543,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T06:45:24Z",
+            "open_issues": 142,
             "owner": "apache",
             "repo": "gobblin",
-            "stars": 2270
+            "stars": 2270,
+            "topics": [
+              "apache",
+              "data",
+              "ingestion",
+              "management",
+              "replication"
+            ]
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -252,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Netflix's distributed Data Pipeline",
+            "homepage": null,
             "id": 8914350,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T10:22:36Z",
+            "open_issues": 6,
             "owner": "Netflix",
             "repo": "suro",
-            "stars": 796
+            "stars": 796,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -274,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Map-Reduce for Clojure",
+            "homepage": null,
             "id": 15149719,
             "language": "Clojure",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T10:32:34Z",
+            "open_issues": 19,
             "owner": "Netflix",
             "repo": "PigPen",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -290,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pig Visualization framework",
+            "homepage": null,
             "id": 10202995,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-24T09:36:23Z",
+            "open_issues": 13,
             "owner": "Netflix",
             "repo": "Lipstick",
-            "stars": 465
+            "stars": 465,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -306,12 +433,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Packetpig - Open Source Big Data Security Analytics",
+            "homepage": "www.packetloop.com",
             "id": 3645592,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-05-14T15:36:20Z",
+            "open_issues": 11,
             "owner": "packetloop",
             "repo": "packetpig",
-            "stars": 298
+            "stars": 298,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -322,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A bunch of utility classes for Java, Hadoop, HBase, Pig, etc.",
+            "homepage": null,
             "id": 1157757,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2014-03-31T14:29:53Z",
+            "open_issues": 3,
             "owner": "mozilla-metrics",
             "repo": "akela",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -338,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine learning and natural language processing with Apache Pig",
+            "homepage": null,
             "id": 1658631,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2013-12-17T18:57:09Z",
+            "open_issues": 2,
             "owner": "alienrobotwizard",
             "repo": "varaha",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -360,12 +502,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native go client for HDFS",
+            "homepage": null,
             "id": 24957315,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-22T22:13:07Z",
+            "open_issues": 54,
             "owner": "colinmarc",
             "repo": "hdfs",
-            "stars": 1403
+            "stars": 1403,
+            "topics": [
+              "commandline",
+              "go",
+              "hdfs"
+            ]
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -376,12 +527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.",
+            "homepage": null,
             "id": 578435,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T11:31:57Z",
+            "open_issues": 87,
             "owner": "twitter",
             "repo": "elephant-bird",
-            "stars": 1133
+            "stars": 1133,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -392,12 +548,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web tool for Avro Schema Registry |",
+            "homepage": "http://lenses.io/product/features",
             "id": 60967444,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-02-13T15:12:45Z",
+            "open_issues": 40,
             "owner": "lensesio",
             "repo": "schema-registry-ui",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "avro",
+              "kafka",
+              "schema-registry"
+            ]
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -414,12 +579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 22392595,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-23T06:54:02Z",
+            "open_issues": 14,
             "owner": "Netflix",
             "repo": "inviso",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -430,12 +600,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A big data cluster management tool that creates and manages clusters of different technologies.",
+            "homepage": null,
             "id": 20289822,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2015-04-20T15:08:22Z",
+            "open_issues": 4,
             "owner": "Impetus",
             "repo": "ankush",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -452,12 +627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yahoo! Cloud Serving Benchmark",
+            "homepage": null,
             "id": 618492,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T15:30:29Z",
+            "open_issues": 383,
             "owner": "brianfrankcooper",
             "repo": "YCSB",
-            "stars": 5229
+            "stars": 5229,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -468,12 +648,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "HiBench is a big data benchmark suite.",
+            "homepage": null,
             "id": 4634707,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-15T16:28:33Z",
+            "open_issues": 257,
             "owner": "Intel-bigdata",
             "repo": "HiBench",
-            "stars": 1484
+            "stars": 1484,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -490,12 +675,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning",
+            "homepage": "http://oryx.io",
             "id": 22269384,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-16T11:16:27Z",
+            "open_issues": 1,
             "owner": "OryxProject",
             "repo": "oryx",
-            "stars": 1782
+            "stars": 1782,
+            "topics": [
+              "apache-kafka",
+              "apache-spark",
+              "cloudera",
+              "java",
+              "kafka",
+              "lambda-architecture",
+              "machine-learning",
+              "oryx"
+            ]
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         },
@@ -506,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RHadoop",
+            "homepage": "https://github.com/RevolutionAnalytics/RHadoop/wiki",
             "id": 2020732,
             "language": null,
+            "license": null,
             "last_commit": "2015-11-24T14:49:09Z",
+            "open_issues": 61,
             "owner": "RevolutionAnalytics",
             "repo": "RHadoop",
-            "stars": 759
+            "stars": 759,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
         }
@@ -533,12 +737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.",
+                "homepage": null,
                 "id": 578435,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-10T11:31:57Z",
+                "open_issues": 87,
                 "owner": "twitter",
                 "repo": "elephant-bird",
-                "stars": 1133
+                "stars": 1133,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -549,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helpful user defined fuctions / table generating functions for Hive",
+                "homepage": null,
                 "id": 1573159,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2016-05-02T15:58:08Z",
+                "open_issues": 3,
                 "owner": "livingsocial",
                 "repo": "HiveSwarm",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -565,12 +779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reusable code for Hive",
+                "homepage": null,
                 "id": 1575099,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2014-08-19T16:33:37Z",
+                "open_issues": 2,
                 "owner": "ThinkBigAnalytics",
                 "repo": "Hive-Extensions-from-Think-Big-Analytics",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -581,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User Defined Functions for Hive to work with Cassandra",
+                "homepage": null,
                 "id": 3069340,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2012-03-30T13:52:22Z",
+                "open_issues": 0,
                 "owner": "edwardcapriolo",
                 "repo": "hive_cassandra_udfs",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -597,12 +821,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lovely Systems Hive Goodies",
+                "homepage": null,
                 "id": 3256767,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2013-02-12T08:53:45Z",
+                "open_issues": 0,
                 "owner": "lovelysystems",
                 "repo": "ls-hive",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             }
@@ -620,12 +849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "hive storage handler for connecting with MongoDB",
+                "homepage": null,
                 "id": 2793829,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-14T18:52:35Z",
+                "open_issues": 13,
                 "owner": "yc-huang",
                 "repo": "Hive-mongo",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -636,12 +870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hive Storage Handler for SOLR",
+                "homepage": null,
                 "id": 8640733,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-03-17T02:42:16Z",
+                "open_issues": 1,
                 "owner": "chimpler",
                 "repo": "hive-solr",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -652,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hive Storage Handler for Cassandra (cloned from https://github.com/riptano/hive/tree/hive-0.8.1-merge/cassandra-handler)",
+                "homepage": null,
                 "id": 9402112,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-20T18:16:23Z",
+                "open_issues": 2,
                 "owner": "dvasilen",
                 "repo": "Hive-Cassandra",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -668,12 +912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hive StorageHandler that uses a Google Spreadsheet as a backend.",
+                "homepage": null,
                 "id": 2231731,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2011-08-19T18:25:00Z",
+                "open_issues": 0,
                 "owner": "balshor",
                 "repo": "gdata-storagehandler",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -684,12 +933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Working commits for Hive connector to Accumulo. This will eventually be checked directly into Accumulo. ",
+                "homepage": null,
                 "id": 8519322,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-15T11:07:56Z",
+                "open_issues": 6,
                 "owner": "bfemiano",
                 "repo": "accumulo-hive-storage-manager",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             }
@@ -707,12 +961,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python interface to Hive and Presto. 🐝",
+                "homepage": null,
                 "id": 16431132,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-13T16:48:16Z",
+                "open_issues": 222,
                 "owner": "dropbox",
                 "repo": "PyHive",
-                "stars": 1693
+                "stars": 1693,
+                "topics": [
+                  "dbapi",
+                  "hive",
+                  "hiveserver2",
+                  "presto",
+                  "python",
+                  "sqlalchemy"
+                ]
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -723,12 +989,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source unit test framework for Hive queries based on JUnit 4 and 5",
+                "homepage": null,
                 "id": 14613496,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-06T09:02:52Z",
+                "open_issues": 1,
                 "owner": "HiveRunner",
                 "repo": "HiveRunner",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "hive",
+                  "hive-sql",
+                  "junit",
+                  "klarna-featured",
+                  "test-framework",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -739,12 +1017,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebUI for query engines: Hive and Presto",
+                "homepage": null,
                 "id": 1580190,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-12-28T08:57:10Z",
+                "open_issues": 8,
                 "owner": "tagomoris",
                 "repo": "shib",
-                "stars": 198
+                "stars": 198,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -755,12 +1038,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby gem for querying Apache Hive",
+                "homepage": "http://www.forward3d.com",
                 "id": 960326,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-04-29T19:58:09Z",
+                "open_issues": 24,
                 "owner": "forward3d",
                 "repo": "rbhive",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -771,12 +1059,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A super simple utility for testing Apache Hive scripts locally for non-Java developers.",
+                "homepage": "http://bit.ly/1fRTJxH",
                 "id": 15010451,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-02-11T01:18:12Z",
+                "open_issues": 1,
                 "owner": "kawaa",
                 "repo": "Beetest",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -787,12 +1080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unit test framework for hive and hive-service",
+                "homepage": null,
                 "id": 2399808,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-06-29T19:16:33Z",
+                "open_issues": 6,
                 "owner": "edwardcapriolo",
                 "repo": "hive_test",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -803,12 +1101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node Hive Client Library",
+                "homepage": "http://forwardtechnology.co.uk/",
                 "id": 2035116,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-05-18T08:04:36Z",
+                "open_issues": 7,
                 "owner": "forward",
                 "repo": "node-hive",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -819,12 +1122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ブラウザよりHiveQLを実行できるWEBアプリケーション",
+                "homepage": null,
                 "id": 1489915,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2014-01-28T09:41:48Z",
+                "open_issues": 9,
                 "owner": "recruitcojp",
                 "repo": "WebHive",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -835,12 +1143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hive ODBC driver for Windows",
+                "homepage": "http://www.recruit.co.jp/",
                 "id": 2070720,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2011-07-22T09:12:43Z",
+                "open_issues": 1,
                 "owner": "recruitcojp",
                 "repo": "OdbcHive",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -851,12 +1164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active Record Adapter for Hive",
+                "homepage": null,
                 "id": 1424995,
                 "language": null,
+                "license": null,
                 "last_commit": "2011-06-09T23:00:13Z",
+                "open_issues": 0,
                 "owner": "synctree",
                 "repo": "activerecord-hive-adapter",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -867,12 +1185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hive adapter for Sequel",
+                "homepage": null,
                 "id": 1712898,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-09-04T05:21:53Z",
+                "open_issues": 1,
                 "owner": "hrp",
                 "repo": "sequel-hive-adapter",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -883,12 +1206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Perl to HiveServer2 Thrift API wrapper",
+                "homepage": null,
                 "id": 76075397,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2023-08-06T20:39:40Z",
+                "open_issues": 0,
                 "owner": "dmorel",
                 "repo": "Thrift-API-HiveClient2",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             }
@@ -906,12 +1234,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flume NG MongoDB source.",
+                "homepage": null,
                 "id": 5991485,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-03T10:42:53Z",
+                "open_issues": 0,
                 "owner": "leonlee",
                 "repo": "flume-ng-mongodb-sink",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "flume",
+                  "mongodb",
+                  "sink"
+                ]
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -922,12 +1259,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flume plugin for RabbitMQ",
+                "homepage": null,
                 "id": 4655641,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-16T16:44:13Z",
+                "open_issues": 6,
                 "owner": "jcustenborder",
                 "repo": "flume-ng-rabbitmq",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "flume",
+                  "rabbitmq"
+                ]
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -938,12 +1283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 6976695,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2014-07-18T02:29:13Z",
+                "open_issues": 1,
                 "owner": "marksl",
                 "repo": "DotNetFlumeNG.Clients",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             },
@@ -954,12 +1304,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apache Flume source plugin allowing direct consumption of UDP messages",
+                "homepage": null,
                 "id": 17885720,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2014-04-15T23:02:24Z",
+                "open_issues": 0,
                 "owner": "whitepages",
                 "repo": "flume-udp-source",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:19:45.115Z"
             }
@@ -970,15 +1325,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:19:45.115Z",
+    "last_updated": "2026-08-29T04:32:59.988Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
+      "homepage": "http://youngwookim.github.io/awesome-hadoop",
       "id": 21599652,
       "language": null,
+      "license": null,
       "last_commit": "2024-05-07T19:21:33Z",
+      "open_issues": 2,
       "owner": "youngwookim",
       "repo": "awesome-hadoop",
-      "stars": 1116
+      "stars": 1116,
+      "topics": []
     },
     "original_repository_sha": "7afed99d1649236e6b6640c9f1b7c2da06dbd524",
     "enhanced_repository": "enhansome/enhansome-hadoop",
