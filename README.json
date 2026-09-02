@@ -36,8 +36,8 @@
             "id": 8710734,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T19:29:57Z",
-            "open_issues": 138,
+            "last_commit": "2026-09-02T03:27:18Z",
+            "open_issues": 139,
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
             "stars": 1972,
@@ -61,7 +61,7 @@
             "open_issues": 20,
             "owner": "Netflix",
             "repo": "genie",
-            "stars": 1767,
+            "stars": 1766,
             "topics": [
               "big-data",
               "bigdata",
@@ -186,7 +186,7 @@
             "open_issues": 34,
             "owner": "python-happybase",
             "repo": "happybase",
-            "stars": 608,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T05:26:56Z",
-            "open_issues": 391,
+            "last_commit": "2026-09-02T00:37:20Z",
+            "open_issues": 393,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2463,
@@ -855,7 +855,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2023-04-14T18:52:35Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "yc-huang",
                 "repo": "Hive-mongo",
                 "stars": 33,
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T06:43:38.635Z",
+    "last_updated": "2026-09-02T06:21:07.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
