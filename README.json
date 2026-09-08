@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T04:41:28Z",
-            "open_issues": 394,
+            "last_commit": "2026-09-08T01:15:01Z",
+            "open_issues": 393,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2464,
@@ -633,7 +633,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-12T15:30:29Z",
-            "open_issues": 383,
+            "open_issues": 384,
             "owner": "brianfrankcooper",
             "repo": "YCSB",
             "stars": 5229,
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:35:42.322Z",
+    "last_updated": "2026-09-08T06:29:00.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
