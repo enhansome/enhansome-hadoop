@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T01:15:01Z",
-            "open_issues": 393,
+            "last_commit": "2026-09-08T23:51:09Z",
+            "open_issues": 399,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2464,
@@ -511,7 +511,7 @@
             "open_issues": 56,
             "owner": "colinmarc",
             "repo": "hdfs",
-            "stars": 1404,
+            "stars": 1403,
             "topics": [
               "commandline",
               "go",
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:29:00.346Z",
+    "last_updated": "2026-09-09T06:34:52.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
