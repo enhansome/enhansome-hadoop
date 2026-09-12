@@ -36,8 +36,8 @@
             "id": 8710734,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T06:22:08Z",
-            "open_issues": 138,
+            "last_commit": "2026-09-11T11:13:06Z",
+            "open_issues": 137,
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
             "stars": 1971,
@@ -272,7 +272,7 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T06:08:33Z",
+            "last_commit": "2026-09-12T05:35:03Z",
             "open_issues": 392,
             "owner": "confluentinc",
             "repo": "schema-registry",
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:35:11.241Z",
+    "last_updated": "2026-09-12T06:23:17.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
