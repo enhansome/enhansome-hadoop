@@ -272,7 +272,7 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T05:35:03Z",
+            "last_commit": "2026-09-13T00:47:45Z",
             "open_issues": 392,
             "owner": "confluentinc",
             "repo": "schema-registry",
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:23:17.374Z",
+    "last_updated": "2026-09-13T06:42:56.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
