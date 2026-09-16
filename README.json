@@ -36,7 +36,7 @@
             "id": 8710734,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T11:13:06Z",
+            "last_commit": "2026-09-16T00:26:33Z",
             "open_issues": 137,
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
@@ -272,7 +272,7 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T06:36:29Z",
+            "last_commit": "2026-09-16T06:32:29Z",
             "open_issues": 392,
             "owner": "confluentinc",
             "repo": "schema-registry",
@@ -373,7 +373,7 @@
             "open_issues": 6,
             "owner": "Netflix",
             "repo": "suro",
-            "stars": 797,
+            "stars": 798,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -657,7 +657,7 @@
             "open_issues": 257,
             "owner": "Intel-bigdata",
             "repo": "HiBench",
-            "stars": 1484,
+            "stars": 1485,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:36:53.599Z",
+    "last_updated": "2026-09-16T06:37:16.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
