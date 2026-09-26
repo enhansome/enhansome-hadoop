@@ -1,6 +1,6 @@
 # Awesome Hadoop with stars
 
-A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,710 | 🐛 93 | 📅 2026-07-13, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 322,845 | 🐛 22 | 🌐 Python | 📅 2026-09-23 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,338 | 🐛 274 | 📅 2024-03-26
+A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,711 | 🐛 93 | 📅 2026-07-13, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 323,070 | 🐛 21 | 🌐 Python | 📅 2026-09-25 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,338 | 🐛 274 | 📅 2024-03-26
 
 * [Awesome Hadoop](#awesome-hadoop)
   * [Hadoop](#hadoop)
@@ -31,8 +31,8 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Hadoop
 
 * [mrjob](https://github.com/Yelp/mrjob/) ⭐ 2,613 | 🐛 217 | 🌐 Python | 📅 2026-04-02 - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
-* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) ⭐ 1,971 | 🐛 139 | 🌐 Java | 📅 2026-09-24 - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
-* [Genie](https://github.com/Netflix/genie) ⭐ 1,766 | 🐛 17 | 🌐 Java | 📅 2026-09-03 - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
+* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) ⭐ 1,971 | 🐛 139 | 🌐 Java | 📅 2026-09-25 - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
+* [Genie](https://github.com/Netflix/genie) ⭐ 1,767 | 🐛 18 | 🌐 Java | 📅 2026-09-25 - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
 * [hadoopy](https://github.com/bwhite/hadoopy) ⭐ 243 | 🐛 56 | 🌐 C | 📅 2016-01-08 - Python MapReduce library written in Cython.
 * [hdfs-du](https://github.com/twitter/hdfs-du) ⚠️ Archived - HDFS-DU is an interactive visualization of the Hadoop distributed file system.
 * [Crunch](https://github.com/jondot/crunch) ⭐ 212 | 🐛 1 | 🌐 Go | 📅 2014-11-19 - Go-based toolkit for ETL and feature extraction on Hadoop
@@ -82,7 +82,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Data Management
 
-* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2,464 | 🐛 393 | 🌐 Java | 📅 2026-09-25 - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
+* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2,464 | 🐛 395 | 🌐 Java | 📅 2026-09-26 - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
 * [Hortonworks Schema Registry](https://github.com/hortonworks/registry) ⚠️ Archived - Schema Registry is a framework to build metadata repositories.
 * [Apache Calcite](http://calcite.apache.org/) - A Dynamic Data Management Framework
 * [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
@@ -94,7 +94,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 46,968 | 🐛 2,087 | 🌐 Python | 📅 2026-09-25 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 46,980 | 🐛 1,891 | 🌐 Python | 📅 2026-09-25 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
@@ -215,7 +215,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
   * <https://github.com/balshor/gdata-storagehandler> ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2011-08-19
   * <https://github.com/bfemiano/accumulo-hive-storage-manager> ⭐ 13 | 🐛 6 | 🌐 Java | 📅 2023-04-15
 * Libraries and tools
-  * [PyHive](https://github.com/dropbox/PyHive) ⭐ 1,693 | 🐛 221 | 🌐 Python | 📅 2026-04-13 - Python interface to Hive and Presto
+  * [PyHive](https://github.com/dropbox/PyHive) ⭐ 1,692 | 🐛 221 | 🌐 Python | 📅 2026-04-13 - Python interface to Hive and Presto
   * [HiveRunner](https://github.com/klarna/HiveRunner) ⭐ 262 | 🐛 1 | 🌐 Java | 📅 2025-01-06 - An Open Source unit test framework for hadoop hive queries based on JUnit4
   * [shib](https://github.com/tagomoris/shib) ⭐ 199 | 🐛 8 | 🌐 JavaScript | 📅 2016-12-28 - WebUI for query engines: Hive and Presto
   * <https://github.com/forward3d/rbhive> ⭐ 98 | 🐛 24 | 🌐 Ruby | 📅 2021-04-29
@@ -275,8 +275,8 @@ Various resources, such as books, websites and articles.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,687 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,103 | 🐛 107 | 📅 2026-09-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,586 | 🐛 107 | 📅 2026-09-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
