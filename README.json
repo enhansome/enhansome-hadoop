@@ -272,11 +272,11 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T06:54:58Z",
-            "open_issues": 394,
+            "last_commit": "2026-09-28T02:44:40Z",
+            "open_issues": 395,
             "owner": "confluentinc",
             "repo": "schema-registry",
-            "stars": 2464,
+            "stars": 2465,
             "topics": [
               "avro",
               "avro-schema",
@@ -684,7 +684,7 @@
             "open_issues": 1,
             "owner": "OryxProject",
             "repo": "oryx",
-            "stars": 1782,
+            "stars": 1783,
             "topics": [
               "apache-kafka",
               "apache-spark",
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T07:02:00.471Z",
+    "last_updated": "2026-09-28T07:30:31.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
