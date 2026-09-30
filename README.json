@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T05:44:13Z",
-            "open_issues": 398,
+            "last_commit": "2026-09-30T05:32:12Z",
+            "open_issues": 394,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2465,
@@ -346,7 +346,7 @@
             "open_issues": 142,
             "owner": "apache",
             "repo": "gobblin",
-            "stars": 2270,
+            "stars": 2271,
             "topics": [
               "apache",
               "data",
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:26:29.433Z",
+    "last_updated": "2026-09-30T07:17:10.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
