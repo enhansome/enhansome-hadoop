@@ -36,8 +36,8 @@
             "id": 8710734,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:45:00Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-02T16:18:23Z",
+            "open_issues": 140,
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
             "stars": 1967,
@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T06:48:49Z",
-            "open_issues": 400,
+            "last_commit": "2026-10-03T04:23:18Z",
+            "open_issues": 398,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2466,
@@ -346,7 +346,7 @@
             "open_issues": 142,
             "owner": "apache",
             "repo": "gobblin",
-            "stars": 2271,
+            "stars": 2270,
             "topics": [
               "apache",
               "data",
@@ -498,7 +498,7 @@
         {
           "node_type": "item",
           "title": "hdfs - A native go client for HDFS",
-          "description": null,
+          "description": "colinmarc/hdfs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -644,7 +644,7 @@
         {
           "node_type": "item",
           "title": "HiBench",
-          "description": null,
+          "description": "Intel-bigdata/HiBench",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -754,7 +754,7 @@
             {
               "node_type": "item",
               "title": "livingsocial/HiveSwarm",
-              "description": null,
+              "description": "livingsocial/HiveSwarm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -775,7 +775,7 @@
             {
               "node_type": "item",
               "title": "ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics",
-              "description": null,
+              "description": "ThinkBigAnalytics/Hive-Extensions-from-Think-Big-Analytics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -796,7 +796,7 @@
             {
               "node_type": "item",
               "title": "edwardcapriolo/hive_cassandra_udfs",
-              "description": null,
+              "description": "edwardcapriolo/hive_cassandra_udfs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -817,7 +817,7 @@
             {
               "node_type": "item",
               "title": "lovelysystems/ls-hive",
-              "description": null,
+              "description": "lovelysystems/ls-hive",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -845,7 +845,7 @@
             {
               "node_type": "item",
               "title": "yc-huang/Hive-mongo",
-              "description": null,
+              "description": "yc-huang/Hive-mongo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -866,7 +866,7 @@
             {
               "node_type": "item",
               "title": "chimpler/hive-solr",
-              "description": null,
+              "description": "chimpler/hive-solr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -887,7 +887,7 @@
             {
               "node_type": "item",
               "title": "dvasilen/Hive-Cassandra",
-              "description": null,
+              "description": "dvasilen/Hive-Cassandra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -908,7 +908,7 @@
             {
               "node_type": "item",
               "title": "balshor/gdata-storagehandler",
-              "description": null,
+              "description": "balshor/gdata-storagehandler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -929,7 +929,7 @@
             {
               "node_type": "item",
               "title": "bfemiano/accumulo-hive-storage-manager",
-              "description": null,
+              "description": "bfemiano/accumulo-hive-storage-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -967,7 +967,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-13T16:48:16Z",
-                "open_issues": 221,
+                "open_issues": 222,
                 "owner": "dropbox",
                 "repo": "PyHive",
                 "stars": 1693,
@@ -1034,7 +1034,7 @@
             {
               "node_type": "item",
               "title": "forward3d/rbhive",
-              "description": null,
+              "description": "forward3d/rbhive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1097,7 +1097,7 @@
             {
               "node_type": "item",
               "title": "forward/node-hive",
-              "description": null,
+              "description": "forward/node-hive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1118,7 +1118,7 @@
             {
               "node_type": "item",
               "title": "recruitcojp/WebHive",
-              "description": null,
+              "description": "recruitcojp/WebHive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1139,7 +1139,7 @@
             {
               "node_type": "item",
               "title": "recruitcojp/OdbcHive",
-              "description": null,
+              "description": "recruitcojp/OdbcHive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1160,7 +1160,7 @@
             {
               "node_type": "item",
               "title": "synctree/activerecord-hive-adapter",
-              "description": null,
+              "description": "synctree/activerecord-hive-adapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1181,7 +1181,7 @@
             {
               "node_type": "item",
               "title": "hrp/sequel-hive-adapter",
-              "description": null,
+              "description": "hrp/sequel-hive-adapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1230,7 +1230,7 @@
             {
               "node_type": "item",
               "title": "Flume MongoDB Sink",
-              "description": null,
+              "description": "leonlee/flume-ng-mongodb-sink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1255,7 +1255,7 @@
             {
               "node_type": "item",
               "title": "Flume RabbitMQ source and sink",
-              "description": null,
+              "description": "jcustenborder/flume-ng-rabbitmq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1279,7 +1279,7 @@
             {
               "node_type": "item",
               "title": ".Net FlumeNG Clients",
-              "description": null,
+              "description": "marksl/DotNetFlumeNG.Clients",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1300,7 +1300,7 @@
             {
               "node_type": "item",
               "title": "Flume UDP Source",
-              "description": null,
+              "description": "whitepages/flume-udp-source",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:28:04.157Z",
+    "last_updated": "2026-10-03T04:47:44.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
