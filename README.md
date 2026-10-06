@@ -1,6 +1,6 @@
 # Awesome Hadoop with stars
 
-A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,727 | 🐛 94 | 📅 2026-09-27, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 325,260 | 🐛 21 | 🌐 Python | 📅 2026-10-02 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,355 | 🐛 273 | 📅 2024-03-26
+A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,728 | 🐛 94 | 📅 2026-09-27, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 325,480 | 🐛 19 | 🌐 Python | 📅 2026-10-02 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,355 | 🐛 273 | 📅 2024-03-26
 
 * [Awesome Hadoop](#awesome-hadoop)
   * [Hadoop](#hadoop)
@@ -82,7 +82,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Data Management
 
-* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2,467 | 🐛 398 | 🌐 Java | 📅 2026-10-05 - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
+* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2,467 | 🐛 397 | 🌐 Java | 📅 2026-10-06 - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
 * [Hortonworks Schema Registry](https://github.com/hortonworks/registry) ⚠️ Archived - Schema Registry is a framework to build metadata repositories.
 * [Apache Calcite](http://calcite.apache.org/) - A Dynamic Data Management Framework
 * [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
@@ -94,7 +94,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 47,055 | 🐛 1,820 | 🌐 Python | 📅 2026-10-05 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 47,063 | 🐛 1,834 | 🌐 Python | 📅 2026-10-06 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
@@ -215,7 +215,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
   * <https://github.com/balshor/gdata-storagehandler> ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2011-08-19
   * <https://github.com/bfemiano/accumulo-hive-storage-manager> ⭐ 13 | 🐛 6 | 🌐 Java | 📅 2023-04-15
 * Libraries and tools
-  * [PyHive](https://github.com/dropbox/PyHive) ⭐ 1,693 | 🐛 222 | 🌐 Python | 📅 2026-04-13 - Python interface to Hive and Presto
+  * [PyHive](https://github.com/dropbox/PyHive) ⭐ 1,694 | 🐛 222 | 🌐 Python | 📅 2026-04-13 - Python interface to Hive and Presto
   * [HiveRunner](https://github.com/klarna/HiveRunner) ⭐ 262 | 🐛 1 | 🌐 Java | 📅 2025-01-06 - An Open Source unit test framework for hadoop hive queries based on JUnit4
   * [shib](https://github.com/tagomoris/shib) ⭐ 199 | 🐛 8 | 🌐 JavaScript | 📅 2016-12-28 - WebUI for query engines: Hive and Presto
   * <https://github.com/forward3d/rbhive> ⭐ 98 | 🐛 24 | 🌐 Ruby | 📅 2021-04-29
@@ -275,8 +275,8 @@ Various resources, such as books, websites and articles.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,701 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,828 | 🐛 107 | 📅 2026-09-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,305 | 🐛 106 | 📅 2026-09-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
