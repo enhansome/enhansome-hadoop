@@ -1,6 +1,6 @@
 # Awesome Hadoop with stars
 
-A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,736 | 🐛 95 | 📅 2026-09-27, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 326,232 | 🐛 23 | 🌐 Python | 📅 2026-10-09 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,357 | 🐛 273 | 📅 2024-03-26
+A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,736 | 🐛 95 | 📅 2026-09-27, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 326,467 | 🐛 24 | 🌐 Python | 📅 2026-10-11 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,356 | 🐛 273 | 📅 2024-03-26
 
 * [Awesome Hadoop](#awesome-hadoop)
   * [Hadoop](#hadoop)
@@ -56,7 +56,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 *Next Generation Databases mostly addressing some of the points: being non-relational, distributed, open-source and horizontally scalable.*
 
-* [happybase](https://github.com/wbolster/happybase) ⭐ 610 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - A developer-friendly Python library to interact with Apache HBase.
+* [happybase](https://github.com/wbolster/happybase) ⭐ 609 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - A developer-friendly Python library to interact with Apache HBase.
 * [hindex](https://github.com/Huawei-Hadoop/hindex) ⭐ 589 | 🐛 28 | 🌐 Java | 📅 2017-05-18 - Secondary Index for HBase
 * [Hannibal](https://github.com/sentric/hannibal) ⭐ 172 | 🐛 9 | 🌐 Ruby | 📅 2017-12-22 - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
 * [Haeinsa](https://github.com/VCNC/haeinsa) ⭐ 160 | 🐛 19 | 🌐 Java | 📅 2017-02-28 - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
@@ -94,12 +94,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 47,136 | 🐛 1,834 | 🌐 Python | 📅 2026-10-10 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 47,141 | 🐛 1,828 | 🌐 Python | 📅 2026-10-10 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
 
-* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) ⭐ 2,270 | 🐛 142 | 🌐 Java | 📅 2026-09-24 - Universal data ingestion framework for Hadoop
+* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) ⭐ 2,269 | 🐛 142 | 🌐 Java | 📅 2026-09-24 - Universal data ingestion framework for Hadoop
 * [Suro](https://github.com/Netflix/suro) ⚠️ Archived - Netflix's distributed Data Pipeline
 * [Apache Flume](http://flume.apache.org) - Apache Flume
 * [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
@@ -275,8 +275,8 @@ Various resources, such as books, websites and articles.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,715 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,930 | 🐛 106 | 📅 2026-09-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,716 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,365 | 🐛 105 | 📅 2026-09-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
