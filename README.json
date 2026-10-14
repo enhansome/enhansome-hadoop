@@ -272,11 +272,11 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T08:16:12Z",
-            "open_issues": 395,
+            "last_commit": "2026-10-14T06:28:02Z",
+            "open_issues": 394,
             "owner": "confluentinc",
             "repo": "schema-registry",
-            "stars": 2467,
+            "stars": 2468,
             "topics": [
               "avro",
               "avro-schema",
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:20:58.634Z",
+    "last_updated": "2026-10-14T06:38:32.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
