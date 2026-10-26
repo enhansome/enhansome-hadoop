@@ -186,7 +186,7 @@
             "open_issues": 32,
             "owner": "python-happybase",
             "repo": "happybase",
-            "stars": 609,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T06:37:11Z",
-            "open_issues": 383,
+            "last_commit": "2026-10-26T06:27:01Z",
+            "open_issues": 384,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2470,
@@ -343,7 +343,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:30:06Z",
-            "open_issues": 142,
+            "open_issues": 143,
             "owner": "apache",
             "repo": "gobblin",
             "stars": 2270,
@@ -636,7 +636,7 @@
             "open_issues": 384,
             "owner": "brianfrankcooper",
             "repo": "YCSB",
-            "stars": 5236,
+            "stars": 5238,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T06:41:26.151Z",
+    "last_updated": "2026-10-26T06:51:32.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
