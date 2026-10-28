@@ -40,7 +40,7 @@
             "open_issues": 137,
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
-            "stars": 1966,
+            "stars": 1967,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T05:23:00Z",
-            "open_issues": 382,
+            "last_commit": "2026-10-28T07:10:28Z",
+            "open_issues": 383,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2470,
@@ -343,7 +343,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:30:06Z",
-            "open_issues": 142,
+            "open_issues": 143,
             "owner": "apache",
             "repo": "gobblin",
             "stars": 2270,
@@ -511,7 +511,7 @@
             "open_issues": 56,
             "owner": "colinmarc",
             "repo": "hdfs",
-            "stars": 1402,
+            "stars": 1401,
             "topics": [
               "commandline",
               "go",
@@ -636,7 +636,7 @@
             "open_issues": 384,
             "owner": "brianfrankcooper",
             "repo": "YCSB",
-            "stars": 5238,
+            "stars": 5237,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:46:16.317Z",
+    "last_updated": "2026-10-28T07:17:03.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
