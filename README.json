@@ -37,7 +37,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T11:03:55Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
             "stars": 1967,
@@ -272,11 +272,11 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T07:10:28Z",
-            "open_issues": 383,
+            "last_commit": "2026-10-29T07:23:59Z",
+            "open_issues": 380,
             "owner": "confluentinc",
             "repo": "schema-registry",
-            "stars": 2470,
+            "stars": 2471,
             "topics": [
               "avro",
               "avro-schema",
@@ -343,7 +343,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:30:06Z",
-            "open_issues": 143,
+            "open_issues": 142,
             "owner": "apache",
             "repo": "gobblin",
             "stars": 2270,
@@ -636,7 +636,7 @@
             "open_issues": 384,
             "owner": "brianfrankcooper",
             "repo": "YCSB",
-            "stars": 5237,
+            "stars": 5236,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:17:03.827Z",
+    "last_updated": "2026-10-29T07:37:17.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",

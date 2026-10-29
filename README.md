@@ -1,6 +1,6 @@
 # Awesome Hadoop with stars
 
-A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,767 | 🐛 99 | 📅 2026-09-27, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 330,766 | 🐛 21 | 🌐 Python | 📅 2026-10-28 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,349 | 🐛 274 | 📅 2024-03-26
+A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,773 | 🐛 99 | 📅 2026-09-27, [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 331,016 | 🐛 21 | 🌐 Python | 📅 2026-10-28 and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,350 | 🐛 274 | 📅 2024-03-26
 
 * [Awesome Hadoop](#awesome-hadoop)
   * [Hadoop](#hadoop)
@@ -31,7 +31,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Hadoop
 
 * [mrjob](https://github.com/Yelp/mrjob/) ⭐ 2,614 | 🐛 217 | 🌐 Python | 📅 2026-04-02 - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
-* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) ⭐ 1,967 | 🐛 137 | 🌐 Java | 📅 2026-10-23 - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
+* [Elasticsearch Hadoop](https://github.com/elastic/elasticsearch-hadoop) ⭐ 1,967 | 🐛 138 | 🌐 Java | 📅 2026-10-23 - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
 * [Genie](https://github.com/Netflix/genie) ⭐ 1,767 | 🐛 17 | 🌐 Java | 📅 2026-09-30 - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
 * [hadoopy](https://github.com/bwhite/hadoopy) ⭐ 243 | 🐛 56 | 🌐 C | 📅 2016-01-08 - Python MapReduce library written in Cython.
 * [hdfs-du](https://github.com/twitter/hdfs-du) ⚠️ Archived - HDFS-DU is an interactive visualization of the Hadoop distributed file system.
@@ -82,7 +82,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Data Management
 
-* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2,470 | 🐛 383 | 🌐 Java | 📅 2026-10-28 - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
+* [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry) ⭐ 2,471 | 🐛 380 | 🌐 Java | 📅 2026-10-29 - Schema Registry provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas.
 * [Hortonworks Schema Registry](https://github.com/hortonworks/registry) ⚠️ Archived - Schema Registry is a framework to build metadata repositories.
 * [Apache Calcite](http://calcite.apache.org/) - A Dynamic Data Management Framework
 * [Apache Atlas](http://atlas.incubator.apache.org/) - Metadata tagging & lineage capture suppoting complex business data taxonomies
@@ -94,12 +94,12 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Azkaban](http://azkaban.github.io/)
 * [Apache Falcon](http://falcon.apache.org/) - Data management and processing platform
 * [Apache NiFi](http://nifi.apache.org/) - A dataflow system
-* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 47,293 | 🐛 1,915 | 🌐 Python | 📅 2026-10-28 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
+* [Apache AirFlow](https://github.com/apache/incubator-airflow) ⭐ 47,306 | 🐛 1,925 | 🌐 Python | 📅 2026-10-29 - Airflow is a workflow automation and scheduling system that can be used to author and manage data pipelines
 * [Luigi](http://luigi.readthedocs.org/en/latest/) - Python package that helps you build complex pipelines of batch jobs
 
 ## Data Ingestion and Integration
 
-* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) ⭐ 2,270 | 🐛 143 | 🌐 Java | 📅 2026-10-15 - Universal data ingestion framework for Hadoop
+* [Gobblin from LinkedIn](https://github.com/linkedin/gobblin) ⭐ 2,270 | 🐛 142 | 🌐 Java | 📅 2026-10-15 - Universal data ingestion framework for Hadoop
 * [Suro](https://github.com/Netflix/suro) ⚠️ Archived - Netflix's distributed Data Pipeline
 * [Apache Flume](http://flume.apache.org) - Apache Flume
 * [Apache Sqoop](http://sqoop.apache.org) - Apache Sqoop
@@ -182,7 +182,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 ## Benchmark
 
-* [YCSB](https://github.com/brianfrankcooper/YCSB) ⭐ 5,237 | 🐛 384 | 🌐 Java | 📅 2026-10-20 - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
+* [YCSB](https://github.com/brianfrankcooper/YCSB) ⭐ 5,236 | 🐛 384 | 🌐 Java | 📅 2026-10-20 - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
 * [HiBench](https://github.com/intel-hadoop/HiBench) ⚠️ Archived
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)
 
@@ -275,8 +275,8 @@ Various resources, such as books, websites and articles.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,751 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,890 | 🐛 105 | 📅 2026-09-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,757 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 and [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,453 | 🐛 105 | 📅 2026-09-02 list.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
