@@ -57,8 +57,8 @@
             "id": 10828921,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:35:33Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-31T21:20:02Z",
+            "open_issues": 18,
             "owner": "Netflix",
             "repo": "genie",
             "stars": 1767,
@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T06:27:11Z",
-            "open_issues": 380,
+            "last_commit": "2026-11-01T04:59:44Z",
+            "open_issues": 381,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2471,
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:27:05.623Z",
+    "last_updated": "2026-11-01T08:01:18.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
