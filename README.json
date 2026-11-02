@@ -61,7 +61,7 @@
             "open_issues": 18,
             "owner": "Netflix",
             "repo": "genie",
-            "stars": 1767,
+            "stars": 1768,
             "topics": [
               "big-data",
               "bigdata",
@@ -272,7 +272,7 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T04:59:44Z",
+            "last_commit": "2026-11-02T07:42:25Z",
             "open_issues": 381,
             "owner": "confluentinc",
             "repo": "schema-registry",
@@ -636,7 +636,7 @@
             "open_issues": 384,
             "owner": "brianfrankcooper",
             "repo": "YCSB",
-            "stars": 5238,
+            "stars": 5239,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -684,7 +684,7 @@
             "open_issues": 1,
             "owner": "OryxProject",
             "repo": "oryx",
-            "stars": 1781,
+            "stars": 1780,
             "topics": [
               "apache-kafka",
               "apache-spark",
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:01:18.849Z",
+    "last_updated": "2026-11-02T08:09:59.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
