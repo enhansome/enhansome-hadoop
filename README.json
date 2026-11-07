@@ -36,7 +36,7 @@
             "id": 8710734,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T17:12:43Z",
+            "last_commit": "2026-11-06T15:01:41Z",
             "open_issues": 137,
             "owner": "elastic",
             "repo": "elasticsearch-hadoop",
@@ -57,7 +57,7 @@
             "id": 10828921,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T08:14:28Z",
+            "last_commit": "2026-11-06T23:39:16Z",
             "open_issues": 19,
             "owner": "Netflix",
             "repo": "genie",
@@ -272,8 +272,8 @@
             "id": 27790789,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T07:38:56Z",
-            "open_issues": 377,
+            "last_commit": "2026-11-07T06:36:12Z",
+            "open_issues": 376,
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2472,
@@ -343,7 +343,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:30:06Z",
-            "open_issues": 143,
+            "open_issues": 142,
             "owner": "apache",
             "repo": "gobblin",
             "stars": 2270,
@@ -636,7 +636,7 @@
             "open_issues": 384,
             "owner": "brianfrankcooper",
             "repo": "YCSB",
-            "stars": 5237,
+            "stars": 5236,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:45.115Z"
@@ -684,7 +684,7 @@
             "open_issues": 1,
             "owner": "OryxProject",
             "repo": "oryx",
-            "stars": 1780,
+            "stars": 1779,
             "topics": [
               "apache-kafka",
               "apache-spark",
@@ -1325,7 +1325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:27:06.186Z",
+    "last_updated": "2026-11-07T07:42:39.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources",
